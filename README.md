@@ -70,28 +70,7 @@ python Resnet50_WithDefensiveDistillation_Ensemble.ipynb
 ├── resnet50defensiveDistillation.py # Defensive distillation implementation
 ```
 
-## Results
 
-Our experiments show the effectiveness of different attack methods:
-
-1. Individual Attacks:
-   - FGSM achieves X% success rate
-   - PGD demonstrates Y% attack effectiveness
-   - DeepFool shows Z% performance
-
-2. Ensemble Methods:
-   - Mean ensemble attack improves success rate by W%
-   - Weighted ensemble provides more robust attacks
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
